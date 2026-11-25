@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60">
+  <circle cx="30" cy="30" r="14" fill="none" stroke="#22D3EE" stroke-width="5"/>
+  <circle cx="30" cy="30" r="4" fill="#22D3EE"/>
+  <text x="54" y="38" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#E4E4F0">Nube Labs</text>
+</svg>
